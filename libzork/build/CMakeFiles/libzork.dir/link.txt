@@ -1,0 +1,1 @@
+/run/current-system/sw/bin/c++ -fPIC -shared -Wl,-soname,libzork.so -o libzork.so CMakeFiles/libzork.dir/src/node.cc.o CMakeFiles/libzork.dir/src/story.cc.o CMakeFiles/libzork.dir/src/store.cc.o CMakeFiles/libzork.dir/src/choices.cc.o  /run/current-system/sw/lib/libyaml-cpp.so 

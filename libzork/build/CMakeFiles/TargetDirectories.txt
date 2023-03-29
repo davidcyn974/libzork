@@ -1,0 +1,12 @@
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/CMakeFiles/libzork.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/CMakeFiles/edit_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/CMakeFiles/rebuild_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/src/CMakeFiles/edit_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/src/CMakeFiles/rebuild_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/zorkxplorer/CMakeFiles/zorkxplorer.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/zorkxplorer/CMakeFiles/edit_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/zorkxplorer/CMakeFiles/rebuild_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/zorkxplorer/src/CMakeFiles/edit_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/zorkxplorer/src/CMakeFiles/rebuild_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/tests/CMakeFiles/edit_cache.dir
+/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build/tests/CMakeFiles/rebuild_cache.dir

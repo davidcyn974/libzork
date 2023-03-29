@@ -1,0 +1,20 @@
+C:\Users\user_\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/user_/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\user_\Desktop\S6\C++\epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam\libzork -B C:\Users\user_\Desktop\S6\C++\epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam\libzork\cmake-build-debug
+-- Could NOT find GTest (missing: GTEST_LIBRARY GTEST_INCLUDE_DIR GTEST_MAIN_LIBRARY) 
+CMake Error at C:/Users/user_/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE)
+Call Stack (most recent call first):
+  C:/Users/user_/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  C:/Users/user_/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPkgConfig.cmake:99 (find_package_handle_standard_args)
+  tests/CMakeLists.txt:9 (find_package)
+
+
+CMake Error in CMakeLists.txt:
+  The source directory
+
+    C:/Users/user_/Desktop/S6/C++/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/src
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/user_/Desktop/S6/C++/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/cmake-build-debug/CMakeFiles/CMakeOutput.log".

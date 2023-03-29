@@ -1,0 +1,1 @@
+/run/current-system/sw/bin/c++ CMakeFiles/zorkxplorer.dir/src/main.cc.o CMakeFiles/zorkxplorer.dir/src/options.cc.o -o zorkxplorer  -Wl,-rpath,/home/david.chane-yock-nam/afs/ing1/epita-ing-assistants-yaka-libzork-2025-david.chane-yock-nam/libzork/build ../libzork.so 
